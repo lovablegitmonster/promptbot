@@ -1,0 +1,10 @@
+{
+  "name": "discord-prompt-bot",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "dependencies": {
+    "discord-interactions": "^3.4.0",
+    "node-fetch": "^2.7.0",
+    "word-list": "^3.0.0"
+  }
+}
